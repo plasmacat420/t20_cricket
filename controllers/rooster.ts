@@ -266,6 +266,16 @@ function getCred(teamNumber: number) {
   });
 }
 
+function demo (){
+  console.log("INSDIDE DEMO")
+  return true
+}
+
+function demo2 (){
+  console.log("INSDIDE DEMO")
+  return true
+}
+
 export {
   seeRooster,
   seeRooster_cred,

@@ -9,6 +9,6 @@ app.use("/",Router)
 
 
 app.listen(3000,()=>{
-    console.log("SERVER started on 3000")
+    console.log("SERVER started on port 3000")
 })
 
